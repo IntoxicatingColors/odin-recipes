@@ -1,0 +1,20 @@
+.ribsbutton {
+    background-color: red;
+    color: blue;
+    font-size: 30px;
+}
+#casserolebutton {
+    background-color: blue;
+    color: yellow;
+    font-size: 30px;
+}
+#taterbutton {
+    background-color: green;
+    color: purple;
+    font-size: 30px;
+}
+div {
+    color: pink;
+    font-size: 50px;
+    font-weight: 400px;
+}
